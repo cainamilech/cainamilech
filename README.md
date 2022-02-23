@@ -1,4 +1,4 @@
-Hi! I’m @cainamilech, just starting to lern development :)
+Hi! I’m Cainã Milech, just starting to lern development :)
 
 <!---
 cainamilech/cainamilech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
