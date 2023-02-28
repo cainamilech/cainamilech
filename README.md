@@ -1,5 +1,5 @@
-Hi! I’m Cainã Milech, just starting to lern development :) <br>
-My first personal project: https://todoinflorianopolis.com/
+Hello World! I'm Cainã Milech, 28 years old, Brazilian, born in Pelotas (RS), living in Florianopolis (SC).
+Web Developer Front-End, and some knowledge with Back-End and SEO.
 
 <!---
 cainamilech/cainamilech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
